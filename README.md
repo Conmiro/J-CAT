@@ -1,5 +1,9 @@
 # J-CAT
-install android sdk.. load sdk manager and download the 
+Also when coding add/edit the files in the 
+	J-CAT/core/src/jcat/assembly/sim
+					folder
+
+Install android sdk.. load sdk manager and download the 
 													23.0.1 sdk build tools
 													20 on android api
 eclipse
