@@ -1,0 +1,11 @@
+/************************************************/
+/* TODO List                                    */
+/*						*/
+/* If you add something to the list or code,    */
+/* include the date the commit was pushed and   */
+/* your name so we can keep track of who's      */
+/* done what. 					*/
+/************************************************/
+
+TASK:				DATE: 		BY:
+Finish TODO list		10/16/15	PizzaPoindexter
