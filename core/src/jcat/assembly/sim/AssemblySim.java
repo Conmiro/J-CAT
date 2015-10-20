@@ -16,6 +16,8 @@ public class AssemblySim extends ApplicationAdapter {
 		img = new Texture("badlogic.jpg");
 	}
 
+	//Test comment
+	
 	@Override
 	public void render () {
 		Gdx.gl.glClearColor(1, 0, 0, 1);
