@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="144"
+   height="256"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="MainScreenOg.svg"
+   inkscape:export-filename="/home/burritolove/Dropbox/J-CAT/android/assets/art/MainScreenOg.png"
+   inkscape:export-xdpi="567.40002"
+   inkscape:export-ydpi="567.40002">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="71.351735"
+     inkscape:cy="157.73694"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer8"
+     showgrid="false"
+     inkscape:window-width="1280"
+     inkscape:window-height="748"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="background"
+     style="display:inline">
+    <rect
+       style="fill:#a7ffa7;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4033"
+       width="146.37132"
+       height="257.82086"
+       x="0"
+       y="-0.12499932"
+       ry="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer9"
+     inkscape:label="SimulatorBackground"
+     style="display:inline">
+    <rect
+       style="fill:#3aa13a;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4064-3"
+       width="84.982582"
+       height="21.939341"
+       x="32.020084"
+       y="112.62458"
+       ry="5.9617772" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer8"
+     inkscape:label="Simulator"
+     style="display:inline">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4055-0"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Source Code Pro;-inkscape-font-specification:Source Code Pro Light"
+       transform="matrix(0.77388013,0,0,0.77388013,10.312254,53.472139)"><flowRegion
+         id="flowRegion4057-1"><rect
+           id="rect4059-8"
+           width="110.5"
+           height="34"
+           x="32.5"
+           y="77.25"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Source Code Pro;-inkscape-font-specification:Source Code Pro Light" /></flowRegion><flowPara
+         id="flowPara4061-4">Simulator</flowPara></flowRoot>  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer7"
+     inkscape:label="ReferenceBackground"
+     style="display:inline">
+    <rect
+       style="fill:#3aa13a;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4064"
+       width="84.982582"
+       height="21.939341"
+       x="32.000576"
+       y="79.19194"
+       ry="5.9617772" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="Reference"
+     style="display:inline">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4055"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Source Code Pro;-inkscape-font-specification:Source Code Pro Light"
+       transform="matrix(0.77388013,0,0,0.77388013,10.292744,20.039494)"><flowRegion
+         id="flowRegion4057"><rect
+           id="rect4059"
+           width="110.5"
+           height="34"
+           x="32.5"
+           y="77.25"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Source Code Pro;-inkscape-font-specification:Source Code Pro Light" /></flowRegion><flowPara
+         id="flowPara4061">Reference</flowPara></flowRoot>  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="chip"
+     transform="translate(0,-796.36218)">
+    <rect
+       style="fill:#e4dede;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3842"
+       width="132.1718"
+       height="42.955833"
+       x="6.8583755"
+       y="811.51794"
+       ry="9.2048216" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Assembly BackDrop"
+     transform="translate(0,-796.36218)">
+    <path
+       style="fill:#979797;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 69.751345,814.89119 3.769266,-0.004 c 0.649059,0 -0.152715,3.37592 0.688106,3.40542 0,0 3.735412,0.0654 3.587898,0.0654 1.194861,0.0442 2.278443,1.98915 3.384127,1.92082 1.03483,-0.064 0.309131,-5.39582 0.958188,-5.39582 l 3.65202,-9.5e-4 c 1.194853,-0.008 -0.259301,5.19665 1.271636,5.10989 1.862082,-0.10558 0.656921,-1.94071 1.394488,-1.97022 l 3.445709,-9.4e-4 c 0.427783,0.0738 -0.540583,2.61505 1.550537,2.65428 1.70626,0.0319 1.31155,-2.58242 2.27039,-2.65617 1.57751,-4.6e-4 2.36473,-9.6e-4 3.94223,-0.002 0,0 0.0865,8.57847 0.0865,11.44297 4.69508,11.20372 33.11344,-0.93094 33.57825,11.87396 -0.0428,3.20262 0.69356,10.12465 -6.23246,9.12329 l -29.1391,0 -11.347816,0 -11.347808,0 -11.347808,0 -11.347817,0 -11.180914,0 c -6.592238,-0.41723 -16.582898,-20.29781 -20.365504,-20.29781 -0.94565,0 -2.12771,0 -3.368879,0 -0.429502,0 -0.430917,-0.70521 -0.447979,-1.62031 0.01407,-2.27851 -2.463539,-2.27787 -2.474293,-0.0266 -0.04041,1.31266 -0.252391,1.61715 -0.994942,1.63204 -2.244476,0.0451 -3.563682,0.62986 -3.519886,-2.69934 0,0 -7.56e-4,-10.24417 0.0028,-10.37823 0.02407,-0.90018 1.541387,-2.16161 3.222139,-2.16223 1.283615,-4.5e-4 2.790809,-8.8e-4 4.42802,-9.3e-4 0.818607,-1.9e-4 3.435987,0.10537 4.083563,1.88765 0.487732,3.66081 -0.575184,5.30994 1.300948,3.3624 0.53285,-0.79819 1.484808,-1.88842 2.376307,-1.88855 0.891489,-1.3e-4 3.648688,-2.5e-4 5.130985,-3.7e-4 0.741144,-6e-5 -0.446741,2.10682 1.05763,2.10682 0.752415,0 1.271841,-2.10719 2.427835,-2.10719 1.266659,-9.3e-4 3.738857,-0.002 4.979845,-0.002 1.595032,-9.4e-4 0.1002,2.06355 1.398501,2.06278 0.973785,-5.7e-4 0.787357,-2.06648 2.63899,-2.06741 0.719307,-3.6e-4 4.573852,-7.2e-4 5.978093,-9.4e-4 1.404231,-3.6e-4 1.243236,1.82844 2.074171,1.8281 0.576327,-0.15443 -0.03323,-1.85605 1.146874,-1.85605 l 6.503456,-0.0135 c 0.545804,0.0148 0.824215,0.72411 1.370009,0.72411 0.530141,0 1.087868,-0.70544 1.692667,-0.76445 l 4.327645,-0.0135 c 1.106345,0.1032 1.862178,1.43244 2.474474,1.40269 1.390183,-0.0677 0.374999,-4.65705 0.920793,-4.67179 z"
+       id="rect3014"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccsccsccscccccccccccssccscsssccssscsssscccsccscc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="spacer"
+     transform="translate(0,-796.36218)" />
+  <g
+     inkscape:label="Assembly Simulator"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-796.36218)">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2985"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:'0xA000-Mono';-inkscape-font-specification:Sans"><flowRegion
+         id="flowRegion2987"><rect
+           id="rect2989"
+           width="11.428572"
+           height="22.857143"
+           x="125.71429"
+           y="135.21933" /></flowRegion><flowPara
+         id="flowPara2991" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2993"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#e4dede;fill-opacity:1;stroke:none;font-family:Source Code Pro;-inkscape-font-specification:Source Code Pro Light"
+       transform="matrix(0.94408429,0,0,0.94408429,-313.76658,569.37516)"><flowRegion
+         id="flowRegion2995"><rect
+           id="rect2997"
+           width="100.54922"
+           height="27.734161"
+           x="342.85715"
+           y="258.07648"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Source Code Pro;-inkscape-font-specification:Source Code Pro Light;fill:#e4dede;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara2999"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'0xA000-Squareish';-inkscape-font-specification:'0xA000-Squareish Bold';fill:#e4dede;fill-opacity:1">Assembly</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3001"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:'0xA000-Mono';-inkscape-font-specification:Sans"><flowRegion
+         id="flowRegion3003"><rect
+           id="rect3005"
+           width="27.779196"
+           height="45.456863"
+           x="720.74384"
+           y="527.08289" /></flowRegion><flowPara
+         id="flowPara3007" /></flowRoot>    <text
+       xml:space="preserve"
+       style="font-size:18.88168715999999847px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#e4dede;fill-opacity:1;stroke:none;font-family:'0xA000-Squareish';-inkscape-font-specification:'0xA000-Squareish Bold'"
+       x="37.217247"
+       y="847.94019"
+       id="text3009"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3011"
+         x="37.217247"
+         y="847.94019"
+         style="font-weight:bold;-inkscape-font-specification:'0xA000-Squareish Bold';fill:#e4dede;fill-opacity:1">Simulator</tspan></text>
+  </g>
+</svg>
