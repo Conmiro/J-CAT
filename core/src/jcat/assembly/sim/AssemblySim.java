@@ -33,12 +33,17 @@ public class AssemblySim extends ApplicationAdapter {
 		img = new Texture("badlogic.jpg");
 		font = new BitmapFont();
 		
+		//Use interface for instruction types?
+		
+		Registry Register;
+		Register = new Registry();
+		System.out.println(Register.toString());
 		
 		Memory MemoryAddresses;
 		MemoryAddresses = new Memory(10);
 		System.out.println(MemoryAddresses.toString());
 		
-		
+	
 		
 	}
 

@@ -2,22 +2,22 @@ package jcat.assembly.sim;
 
 import com.badlogic.gdx.utils.Array;
 
+
+/**
+ * This class allows creating a Memory object which stores integer values
+ * in an array and allows for easily retrieving and setting these values
+ * as well as printing them out in hex format.
+ * @author Connor
+ *
+ */
 public class Memory {
 
-	/*
-	 * Registry ID's
-	 * %eax = 0
-	 * %ecx = 1
-	 * %edx = 2
-	 * %ebx = 3
-	 * %esp = 4
-	 * %ebp = 5
-	 * %esi = 6
-	 * %edi = 7
-	 */
+
+	private Array<Integer> mem; //Array for storing values at memory addresses
+	private int bitLength = 4; //Number of bits in each memory address.
 	
-	private Array<Integer> mem;
-	private int bitLength = 4;
+	
+	
 	
 	
 	/**
